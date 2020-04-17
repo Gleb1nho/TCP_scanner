@@ -7,3 +7,5 @@ TCP scanner <br>
  пример запуска: python3 tcp_scanner.py localhost 0 100 <br>
 или так для многопоточной версии: python3 multithreading_tcp_scanner.py localhost 0 100 <br> <br>
  справка при запуске без аргментов / -h / --help <br>
+ <br>
+Выполнил Пестрецов Глеб КН-203 МЕН-280208
